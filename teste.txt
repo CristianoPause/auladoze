@@ -3,4 +3,5 @@ criar uma página com html
 Passo 1. Criar arquivo index.html
 Passo 2. Montar a estrutura do html
 Passo 3. Colocar título
-Passo 4. Insere codigo
+Passo 4. Insere código
+Passo 5. Teste
